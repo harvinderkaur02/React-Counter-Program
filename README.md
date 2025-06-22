@@ -33,13 +33,5 @@ npm install
 # Run the app locally
 npm run dev
 
-
-
-
-## 🛠️ Tech Stack
-
-- **Framework:** React 19
-- **Build Tool:** Vite
-- **Language:** JavaScript (ES Modules)
-- **Linting:** ESLint with React Hooks plugin
+---
 
