@@ -2,7 +2,7 @@
 
 A simple, interactive counter app built using **React** and **Vite**. It displays the number of times a button has been clicked, with options to increment and reset the counter. Styled with a clean and centered card layout for an elegant look.
 
-![App Screenshot](./Screenshot%20(248).png)
+![App Screenshot](https://github.com/harvinderkaur02/React-Counter-Program/blob/main/public/Screenshot%20(247).png)
 
 ---
 
