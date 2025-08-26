@@ -8,6 +8,7 @@ A simple, interactive counter app built using **React** and **Vite**. It display
 
 ## ✨ Features
 
+
 - 🚀 Instant count updates with `useState`
 - 🔁 Reset button to restart the counter
 - 🎨 Styled with a light background and bold typography
@@ -32,6 +33,48 @@ npm install
 
 # Run the app locally
 npm run dev
+```
 
+ Available Scripts
 ---
 
+ 
+| Script            | Description                    |
+| ----------------- | ------------------------------ |
+| `npm run dev`     | Start development server       |
+| `npm run build`   | Build for production           |
+| `npm run preview` | Preview the production build   |
+| `npm run lint`    | Lint the codebase using ESLint | 
+
+
+📁 Project Structure
+---
+    ├── public/
+    ├── src/
+    │   ├── App.jsx          # Counter UI logic
+    │   └── main.jsx         # Entry point
+    ├── index.html
+    ├── package.json
+    ├── vite.config.js
+    ├── README.md
+
+📸 UI Overview
+---
+  The UI consists of:
+  
+- A central card with a light peach background
+
+- Bold "Counter" title
+
+- Message displaying the current count
+
+- Two buttons:
+
+  - "Clicked me" to increase the count
+
+  - "Restart" to reset it to zero
+
+📃 License
+---
+This project is licensed under the MIT License.
+       
